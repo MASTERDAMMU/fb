@@ -1,0 +1,29 @@
+
+.updatedownn>.MuiSvgIcon-root{
+    color:red;
+}
+.updatedownnn>.MuiSvgIcon-root{
+    color:blue;
+}.updatedownnnn>.MuiSvgIcon-root{
+    color:yellow;
+}
+.updatedownn{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+  
+}
+.updatedownnn{
+    display:flex;
+    align-items: center;
+
+}.updatedownnnn{
+    display:flex;
+    align-items: center;
+
+}
+.updatedown{
+    display: flex
+    
+}

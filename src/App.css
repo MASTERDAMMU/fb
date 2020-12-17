@@ -1,0 +1,8 @@
+.body{
+    display: flex;
+    margin-top: 15px;
+    
+}
+.app{
+    background-color: rgb(235, 232, 232);
+}
